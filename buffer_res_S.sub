@@ -1,7 +1,7 @@
 # This is a HTCondor submit process.
 #
 
-geodatabasePrefix = watersources_th
+geodatabasePrefix = residential_factory_area_south
 bufferSize = 500
 
 scriptName        = single_buffer.py
